@@ -8,20 +8,25 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Hello there! My name is Subhash Padala. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from IIT (PKD), Palakkad :student:. I'm passionate about Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI :man_technologist:. 
+<p align="center"><a href="https://twitter.com/SubhashPadala2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/subhash-padala-7703111a8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_dreamboy_ash_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
-<!--
+<h3 align="left">About Me👼️</h3>
+<p align="left">:student: I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from IIT (PKD), Palakkad. </p>
+<p align="left">:man_technologist: I'm passionate about Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI.</p>
+
 <p align="center">
  <img  width="400" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </p>
--->
-<p align="left">😄 Pronouns: he/him</p>
-<p align="left">🔭 I’m currently working on Deep Privacy Aware Learning, research project</p>
-<p align="left">🌱 I’m currently learning everything</p>
-<p align="left">👯 I’m looking to collaborate on any project with researchers and creators</p>
-<p align="left">💬 Ask me about anthing</p>
-<p align="center"><a href="https://twitter.com/SubhashPadala2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/subhash-padala-7703111a8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_dreamboy_ash_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p>
+ <ul>
+  <li>😄 Pronouns: he/him</li>
+  <li>🔭 I’m currently working on Deep Privacy Aware Learning, research project</li>
+  <li>🌱 I’m currently learning everything</li>
+  <li>👯 I’m looking to collaborate on any project with researchers and creators</li>
+  <li>💬 Ask me about anything</li>
+ </ul>
 </p>
+
 
 <p align=center>
   <a href="https://github.com/SubhashPadala">

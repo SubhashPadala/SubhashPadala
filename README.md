@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Hello there! My name is Subhash Padala. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from IIT (PKD), Palakkad :student:. I am currently the Club Head, Data Analysis Club, at IIT PKD. I'm passionate about Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI :man_technologist:. 
+<p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from IIT (PKD), Palakkad :student:. I'm passionate about Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI :man_technologist:. 
 </p>
 <!--
 <p align="center">

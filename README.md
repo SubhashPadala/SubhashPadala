@@ -6,15 +6,18 @@
 Here are some ideas to get you started:
 -->
 
+
+<h2 align="center">Hello there! My name is Subhash Padala. 👋🤓</h2>
+<h5 align="left">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from IIT (PKD), Palakkad :student:.</h5>
+<h5 align="left">I am currently the Club Head, Data Analysis Club, at IIT Palakkad. </h5>
+<h5 align="left">I'm passionate about Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI :man_technologist:. 
+</h5>
+<!--
 <p align="center">
  <img  width="400" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </p>
-<h2 align="center">Hello there! My name is Subhash Padala. 👋🤓</h2>
-<h6 align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science and Engineering from IIT (PKD), Palakkad :student:.</h6>
-<h6 align="center">I'm passionate about Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI :man_technologist:. 
-</h6>
+-->
 <p align="left">😄 Pronouns: he/him</p>
-<p align="left">I am currently the Club Head, Data Analysis Club, at IIT Palakkad. </p>
 <p align="left">🔭 I’m currently working on Deep Privacy Aware Learning, research project</p>
 <p align="left">🌱 I’m currently learning everything</p>
 <p align="left">👯 I’m looking to collaborate on any project with researchers and creators</p>

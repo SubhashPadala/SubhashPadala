@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://twitter.com/SubhashPadala2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/subhash-padala-7703111a8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_dreamboy_ash_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 <h2 align="left">About Me👼️</h2>
-<p align="left">:student: I'm currently a student pursuing my Bachelors in Computer Science and Engineering from IIT (PKD), Palakkad. </p>
-<p align="left">:man_technologist: I'm passionate about Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI.</p>
+<p align="left">:student: I'm currently a student pursuing my Bachelors in <b>Computer Science and Engineering from IIT Palakkad</b>. </p>
+<p align="left">:man_technologist: I'm passionate about <b>Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI</b>.</p>
 
 <p align="center">
  <img  width="400" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>
  <ul>
   <li>😄 Pronouns: he/him</li>
-  <li>🔭 I’m currently working on Deep Privacy Aware Learning, research project</li>
+  <li>🔭 I’m currently working on <b>Deep Privacy Aware Learning</b>, research project</li>
   <li>🌱 I’m currently learning everything</li>
   <li>👯 I’m looking to collaborate on any project with researchers and creators</li>
   <li>💬 Ask me about anything</li>

@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 <h2 align="left">About Me👼️</h2>
 <p align="left">:student: I'm currently a student pursuing my Bachelors in <b>Computer Science and Engineering from IIT Palakkad</b>. </p>
 <p align="left">:man_technologist: I'm passionate about <b>Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI</b>.</p>
-
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=SubhashPadala&show_icons=true&theme=radical">
+</p>
+<!--
 <p align="center">
  <img  width="400" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </p>
-
+-->
 <p>
  <ul>
   <li>😄 Pronouns: he/him</li>
@@ -47,11 +50,11 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch%20-%23323330.svg?&style=for-the-badge&logo=pytorch&logoColor=orange"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&ogoColor=gray"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 </p>
-
+<!--
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=SubhashPadala&show_icons=true&theme=radical">
 </p>
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

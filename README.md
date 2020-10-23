@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p>
  <ul>
   <li>😄 Pronouns: he/him</li>
-  <li>🔭 I’m currently working on <b>Deep Privacy Aware Learning</b>, research project</li>
+  <li>🔭 I’m currently working on <b>Deep Privacy Aware Learning</b></li>
   <li>🌱 I’m currently learning everything</li>
   <li>👯 I’m looking to collaborate on any project with researchers and creators</li>
   <li>💬 Ask me about anything</li>

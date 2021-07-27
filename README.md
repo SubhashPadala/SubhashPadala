@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 </p>
 <h2 align="left">About Me👼️</h2>
 <p align="left">:student: I'm currently a student pursuing my Bachelors in <b>Computer Science and Engineering from IIT Palakkad</b>. </p>
-<p align="left">:man_technologist: I'm passionate about <b>Computer Vision, Natural Language Processing, Reinforcement Learning, Secure and Private AI</b>.</p>
+<p align="left">:man_technologist: I'm passionate about <b>Competitive Programming, Computer Vision, Natural Language Processing, Reinforcement Learning</b>.</p>
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=SubhashPadala&show_icons=true&theme=radical">
 </p>

@@ -25,8 +25,6 @@ Here are some ideas to get you started:
  <ul>
   <li>😄 Pronouns: he/him</li>
   <li>🌱 I’m currently learning everything</li>
-  <li>👯 I’m looking to collaborate on any project with researchers and creators</li>
-  <li>💬 Ask me about anything</li>
  </ul>
 </p>
 

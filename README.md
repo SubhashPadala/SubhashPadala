@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://twitter.com/SubhashPadala2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/subhash-padala-7703111a8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_dreamboy_ash_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 <h2 align="left">About Me👼️</h2>
-<p align="left">:student: I'm currently a student pursuing my Bachelors in <b>Computer Science and Engineering from IIT Palakkad</b>. </p>
 <p align="left">:man_technologist: I'm passionate about <b>Competitive Programming, Computer Vision, Natural Language Processing, Reinforcement Learning</b>.</p>
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=SubhashPadala&show_icons=true&theme=radical">

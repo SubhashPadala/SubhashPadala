@@ -8,10 +8,11 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Hello there! My name is Subhash Padala. 👋🤓</h2>
-<p align="center"><a href="https://twitter.com/SubhashPadala2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/subhash-padala-7703111a8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_dreamboy_ash_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"><a href="https://twitter.com/SubhashPadala2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/subhash-padala-7703111a8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 <h2 align="left">About Me👼️</h2>
-<p align="left">:man_technologist: I'm passionate about <b>Competitive Programming, Computer Vision, Natural Language Processing, Reinforcement Learning</b>.</p>
+<p align="left">:man_technologist: I'm passionate about <b>Computer Vision, Natural Language Processing, Reinforcement Learning</b>.</p>
+<p align="left">🌱 I’m currently enjoying Competitive Programming.</p>
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=SubhashPadala&show_icons=true&theme=radical">
 </p>
@@ -20,12 +21,7 @@ Here are some ideas to get you started:
  <img  width="400" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </p>
 -->
-<p>
- <ul>
-  <li>😄 Pronouns: he/him</li>
-  <li>🌱 I’m currently learning everything</li>
- </ul>
-</p>
+
 
 
 <p align=center>
